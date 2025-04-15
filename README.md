@@ -25,7 +25,7 @@ I will be graduating from **Tecnológico de Monterrey**, and I am aiming to purs
 
 ## 💬 Let’s Connect
 - **LinkedIn**: [Alejandro Rodriguez](www.linkedin.com/in/alejandro-rodríguez-del-bosque-1810a331b)
-- **Email**: [your-email@example.com](mailto:alejandrordzdb@example.com)
+- **Email**: [alejandrordzdb@gmail.com](mailto:alejandrordzdb@example.com)
 ---
 
 ## 📜 About this Repository
