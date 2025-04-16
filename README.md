@@ -4,17 +4,20 @@ I'm a **Robotics Engineer** currently studying at **Tecnologico de Monterrey**. 
 
 I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** in **Robotics** at a top-tier university.
 
+## 💬 Let’s Connect
+- **LinkedIn**: [Alejandro Rodriguez](www.linkedin.com/in/alejandro-rodríguez-del-bosque-1810a331b)
+- **Email**: [alejandrordzdb@gmail.com](mailto:alejandrordzdb@example.com)
+
 ## Check out my Projects!
 - **Puzzlebot Challenge:** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
 
 ## Volunteer Work
 - **FIRST Team Captain and Mentor:** I spent three years as the team captain for my school's First Robotics Competition Team. During college, I volunteered as a team mentor for one year. I led the design, construction and programming efforts for the team during this time.
   
-## 💻 Current Work
-- **Robotics Projects**: Programming autonomous robots, working with **NVIDIA Jetson** and **NAO robots** for advanced robotics projects.
+## 💻 Experience
+- **Robotics**: Experience in programming autonomous robots, working with **NVIDIA Jetson** and **NAO robots** for advanced robotics projects.
 - **Algorithms & Data Structures**: Solving algorithmic problems (like those on **LeetCode**) to refine problem-solving skills and prepare for technical interviews.
-- **Embedded Systems**: Working with **STM32**, **Arduino**, and **Raspberry Pi** for building efficient systems.
-- **Machine Learning**: Implementing AI models and exploring how machine learning can be integrated into robotics.
+- **Embedded Systems**: Working with **STM32**, **Arduino**, **NVIDIA Jetson Nano**, and **Raspberry Pi** for building physical solutions to problems.
 
 ## 📚 Skills & Technologies
 - **Programming Languages**: Python, C++, Java, MATLAB, JavaScript
@@ -28,16 +31,7 @@ I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** 
 ## 🎓 Education
 - **Tecnológico de Monterrey** (Mexico)  
   Bachelor's Degree in **Robotics and Digital Systems Engineering** (Expected 2026)
-
-## 💬 Let’s Connect
-- **LinkedIn**: [Alejandro Rodriguez](www.linkedin.com/in/alejandro-rodríguez-del-bosque-1810a331b)
-- **Email**: [alejandrordzdb@gmail.com](mailto:alejandrordzdb@example.com)
 ---
-
-## 📜 About this Repository
-
-This repository contains a collection of my work related to robotics, algorithms, and embedded systems. As I continue to develop and learn, I will keep pushing the boundaries of what I can do with my skills. Feel free to check out my projects, raise issues, or even contribute! 🚀
-
 ## 🔑 Contributions
 
 If you want to contribute to any of my projects, feel free to fork the repository, create an issue, or submit a pull request. I always welcome contributions and discussions around solving problems efficiently!
@@ -45,5 +39,5 @@ If you want to contribute to any of my projects, feel free to fork the repositor
 ---
 
 ## 📅 Updates
-- **[April 2025]**: Working on my graduation project and preparing for post-graduation opportunities.
+- **[April 2025]**: Working on projects involving mobile robots, specifically Robomaster TT Drones, a Manchester Robotics Puzzlebot and a NAO v5.
 
