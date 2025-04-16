@@ -1,9 +1,15 @@
 # Hi, I'm Alejandro! 👋
 
-Welcome to my GitHub profile! I'm a **Robotics Engineer** with a passion for building innovative solutions through robotics and artificial intelligence. I'm building a specialization in **motion planning** with a focus on **Human Centered Robotics Projects** 
+I'm a **Robotics Engineer** currently studying at **Tecnologico de Monterrey**. I have a passion for building innovative solutions through robotics and artificial intelligence. 
 
-I will be graduating from **Tecnológico de Monterrey**, and I am aiming to pursue a **Master's or PhD** in **Robotics** at a top-tier university. In addition to my academic background, I am passionate about contributing to open-source projects and continuously improving my development skills.
+I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** in **Robotics** at a top-tier university.
 
+## Check out my Projects!
+- **Puzzlebot Challenge:** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
+
+## Volunteer Work
+- **FIRST Team Captain and Mentor:** I spent three years as the team captain for my school's First Robotics Competition Team. During college, I volunteered as a team mentor for one year. I led the design, construction and programming efforts for the team during this time.
+  
 ## 💻 Current Work
 - **Robotics Projects**: Programming autonomous robots, working with **NVIDIA Jetson** and **NAO robots** for advanced robotics projects.
 - **Algorithms & Data Structures**: Solving algorithmic problems (like those on **LeetCode**) to refine problem-solving skills and prepare for technical interviews.
