@@ -37,13 +37,13 @@ I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** 
 - **LinkedIn**: [Alejandro Rodriguez](www.linkedin.com/in/alejandro-rodríguez-del-bosque-1810a331b)
 - **Email**: [alejandrordzdb@gmail.com](mailto:alejandrordzdb@example.com)
 
-## Check out my Projects!
+## 🤖Check out my Projects!
 - **Puzzlebot Challenge:** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
 
-## Volunteer Work
+## 🤝Volunteer Work
 - **FIRST Team Captain and Mentor:** I spent three years as the team captain for my school's First Robotics Competition Team. During college, I volunteered as a team mentor for one year. I led the design, construction and programming efforts for the team during this time.
   
-## 💻 Experience
+## 💼 Experience
 - **Robotics**: Experience in programming autonomous robots, working with **NVIDIA Jetson** and **NAO robots** for advanced robotics projects.
 - **Algorithms & Data Structures**: Solving algorithmic problems (like those on **LeetCode**) to refine problem-solving skills and prepare for technical interviews.
 - **Embedded Systems**: Working with **STM32**, **Arduino**, **NVIDIA Jetson Nano**, and **Raspberry Pi** for building physical solutions to problems.
