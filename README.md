@@ -33,6 +33,8 @@ I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2310A37F.svg?style=flat&logo=openai&logoColor=white)
+[![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+
 
 
 ## 💬 Let’s Connect
