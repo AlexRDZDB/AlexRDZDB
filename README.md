@@ -32,7 +32,7 @@ I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-2023-green?logo=openai&logoColor=white)(https://openai.com/chatgpt)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-2023-green?logo=openai&logoColor=white)
 
 
 ## 💬 Let’s Connect
