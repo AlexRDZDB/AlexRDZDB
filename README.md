@@ -2,7 +2,7 @@
 
 I'm a **Robotics Engineer** currently studying at **Tecnologico de Monterrey**. I have a passion for building innovative solutions through robotics and artificial intelligence. 
 
-I will be graduating June 2026, and I am aiming to pursue a **Master's or PhD** in **Robotics** at a top-tier university.
+I will be graduating June 2026, and I am aiming to pursue a career in **Robotics**.
 
 # 💻 Tech Stack:
 
