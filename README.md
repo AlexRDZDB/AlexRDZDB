@@ -42,7 +42,7 @@ I will be graduating June 2026, and I am aiming to pursue a career in **Robotics
 - **Email**: [alejandrordzdb@gmail.com](mailto:alejandrordzdb@example.com)
 
 ## 🤖Check out my Projects!
-- **Puzzlebot Challenge:** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
+- **Puzzlebot Challenge (Ongoing):** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
 - **[2D Robotic Manipulator](https://github.com/AlexRDZDB/2DManipulatorPlanner.git):** This week-long project focuses on using motion planning to move the end-effector of a 2D robotic arm from one pose to another while avoiding obstacles
 
 ## 🤝Volunteer Work
