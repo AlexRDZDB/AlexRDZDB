@@ -44,6 +44,7 @@ I will be graduating June 2026, and I am aiming to pursue a career in **Robotics
 ## 🤖Check out my Projects!
 - **Puzzlebot Challenge (Ongoing):** The goal of this project is to create a vision controlled system for a Puzzlebot Robot, provided by Manchester Robotics
 - **[2D Robotic Manipulator](https://github.com/AlexRDZDB/2DManipulatorPlanner.git):** This week-long project focuses on using motion planning to move the end-effector of a 2D robotic arm from one pose to another while avoiding obstacles
+- **[Coppelia SIM Visual Servoing Demo](https://github.com/AlexRDZDB/VisionBasedServoing.git):** A project developed for my Robotics class that introduced me to working with CoppeliaSim. In this simple demo, I control a Pioneer3DX robot using vision sensors to track and approach a green sphere as it moves along a set path using ROS2.
 
 ## 🤝Volunteer Work
 - **FIRST Team Captain and Mentor:** I spent three years as the team captain for my school's First Robotics Competition Team. During college, I volunteered as a team mentor for one year. I led the design, construction and programming efforts for the team during this time.
@@ -74,4 +75,5 @@ If you want to contribute to any of my projects, feel free to fork the repositor
 
 ## 📅 Updates
 - **[April 2025]**: Working on projects involving mobile robots, specifically Robomaster TT Drones, a Manchester Robotics Puzzlebot and a NAO v5.
+- **[May 2025]**: I have been offered a position at the Human Centered Robotics Laboratory at UT Austin to perform undergradaute research in motion planning and human-robot interaction.
 
